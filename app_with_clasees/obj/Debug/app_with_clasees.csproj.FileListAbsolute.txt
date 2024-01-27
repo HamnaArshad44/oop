@@ -1,0 +1,7 @@
+C:\Hamna\semester2\OOP LAB\app_with_clasees\bin\Debug\app_with_clasees.exe.config
+C:\Hamna\semester2\OOP LAB\app_with_clasees\bin\Debug\app_with_clasees.exe
+C:\Hamna\semester2\OOP LAB\app_with_clasees\bin\Debug\app_with_clasees.pdb
+C:\Hamna\semester2\OOP LAB\app_with_clasees\obj\Debug\app_with_clasees.csproj.AssemblyReference.cache
+C:\Hamna\semester2\OOP LAB\app_with_clasees\obj\Debug\app_with_clasees.csproj.CoreCompileInputs.cache
+C:\Hamna\semester2\OOP LAB\app_with_clasees\obj\Debug\app_with_clasees.exe
+C:\Hamna\semester2\OOP LAB\app_with_clasees\obj\Debug\app_with_clasees.pdb
